@@ -1,1 +1,2 @@
 For demonstration of "merging"
+I want to try merge
